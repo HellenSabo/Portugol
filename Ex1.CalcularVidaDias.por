@@ -11,7 +11,7 @@ programa
 		anoConvert, mesConvert
 		
 
-		escreva ("Olá, irei calcular quantos dias você já viveu!") 
+		escreva ("Olá, irei calcular quantos dias você já viveu até hoje!") 
 		escreva ("\n\nPrimeiramente, em que ano você nasceu? ")
 		leia (anoNasc)
 		escreva ("E em qual mês? Utilize o fomato numérico! ")
@@ -41,7 +41,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 964; 
+ * @POSICAO-CURSOR = 343; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
