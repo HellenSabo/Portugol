@@ -1,12 +1,18 @@
 programa
 {
+
+//Faça um sistema que leia a idade de uma pessoa expressa
+//em anos, meses e dias e mostre-a expressa apenas em dias.
 	
 	funcao inicio()
 	{
-		inteiro anoNasc, mesNasc, diaNasc, anoHoje, mesHoje, diaHoje, anoFinal, mesFinal, diaFinal, anoConvert, mesConvert
+		inteiro anoNasc, mesNasc, diaNasc, anoHoje,
+		mesHoje, diaHoje, anoFinal, mesFinal, diaFinal,
+		anoConvert, mesConvert
 		
 
-		escreva ("Olá, irei calcular quantos dias você já viveu! Primeiramente, em que ano você nasceu? ")
+		escreva ("Olá, irei calcular quantos dias você já viveu!") 
+		escreva ("\n\nPrimeiramente, em que ano você nasceu? ")
 		leia (anoNasc)
 		escreva ("E em qual mês? Utilize o fomato numérico! ")
 		leia (mesNasc)
@@ -25,7 +31,9 @@ programa
 		anoConvert = (anoFinal * 365)
 		mesConvert = (mesFinal * 30)
 
-		escreva ("Considerando anos bissextos e meses com 31 dias, sua idade, convertida em dias, é aproximadamente: " + (anoConvert + mesConvert + diaFinal))
+		escreva ("\nDesconsiderando anos bissextos e meses com 31 dias, " +
+		"sua idade, convertida em dias, é aproximadamente: " + 
+		(anoConvert + mesConvert + diaFinal))
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -33,7 +41,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 130; 
+ * @POSICAO-CURSOR = 964; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
