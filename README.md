@@ -47,3 +47,16 @@ positivos, ou seja, o programa deve parar quando o usuário fornecer um valor ne
 **1)** Faça um programa que mostre uma contagem na tela de 233 a 456, só que contando de 3 em 3 quando estiver entre 300 e 400 e de 5 em 5 quando não estiver.
 
 **2)** Faça um programa que pegue um número inserido pelo usuário e calcule a soma de todos os números de 1 até ele. Exemplo: O usuário insere 7, o programa vai mostrar 28, pois 1 + 2 + 3 + 4 + 5 + 6 + 7 = 28.
+
+-------------------------------------------------------------------------------------------------------------
+**Terceiro Dia - Vetores e Matrizes**
+
+**1)** Faça um programa que crie um vetor por leitura com 5 valores de pontuação de uma atividade e os escreva em seguida. Após esse processo, encontre a maior pontuação e a apresente.
+
+**2)** Um dado simples será lançado 10 vezes e o valor correspondente será anotado. Faça um programa que gere um vetor com os lançamentos e os escreva. A seguir, determine e imprima a média aritmética dos lançamentos, contabilize, e apresente quantas foram as ocorrências da maior pontuação.
+
+**3)** Escreva um programa que leia duas matrizes N1 (4,6) e N2(4,6) e crie:
+a) Uma matriz M1, cujos elementos serão as somas dos elementos de mesma posição das matrizes N1 e N2;
+b) Uma matriz M2, cujos elementos serão as diferenças dos elementos de mesma posição das matrizes N1 e N2.
+
+**4)** Crie um programa que receba valores inseridos pelo usuário para preencher uma matriz 3X3, e em seguida, exiba a soma dos respectivos valores. Exiba também a soma dos valores da primeira diagonal, ou seja, a diagonal principal.
