@@ -11,7 +11,7 @@ programa
 		inteiro diasVividos, anos, meses, dias, mesesDiv, diasDiv
 
 		escreva("Olá, vou calcular sua idade em anos, meses e dias!")  
-		escreva("\n\nPara começar, digite quantos dias você já viveu!")
+		escreva("\n\nPara começar, insira quantos dias você já viveu!")
 		leia (diasVividos)
 		anos = (diasVividos / 365)
 		meses = (diasVividos - (anos * 365))
@@ -30,7 +30,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 392; 
+ * @POSICAO-CURSOR = 341; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

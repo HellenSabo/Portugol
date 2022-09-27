@@ -12,7 +12,7 @@ programa
 		custoDoComprador, custoComImpostos, custoComPorcentagem, 
 		arreComp, arreImp, arreDis
 
-		escreva("Olá, vamos descobrir os custos de um carro!")
+		escreva("Olá, vamos descobrir os custos totais de um carro!")
 		escreva("\nDigite o custo de fábrica referente a este carro: R$")
 		leia(custoDeFabrica)
 
@@ -35,7 +35,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 1284; 
+ * @POSICAO-CURSOR = 604; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

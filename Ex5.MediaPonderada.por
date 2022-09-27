@@ -13,11 +13,11 @@ programa
 
 		escreva ("Olá, vamos calcular a média ponderada" +
 		"de um estudante a partir de três notas!")
-		escreva ("\n\nInsira a primeira nota: ")
+		escreva ("\n\nInsira a primeira nota do estudante: ")
 		leia (nota1)
-		escreva ("Insira a segunda nota: ")
+		escreva ("Insira a segunda nota do estudante: ")
 		leia (nota2)
-		escreva ("Insira a terceira nota: ")
+		escreva ("Insira a terceira nota do estudante: ")
 		leia (nota3)
 
 		pond1 = (nota1 * 2)
@@ -27,7 +27,7 @@ programa
 		mediaPonderada = (pond1 + pond2 + pond3)
 		mediaFinal = (Matematica.arredondar(mediaPonderada/3, 2))
 
-		escreva ("\nA média ponderada final é: " + mediaFinal)
+		escreva ("\nA média ponderada final do estudante é: " + mediaFinal)
 		
 		
 		
@@ -38,7 +38,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 821; 
+ * @POSICAO-CURSOR = 855; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

@@ -10,11 +10,11 @@ programa
 
 		escreva ("Olá, vamos resolver a expressão " +
 		"D = R + S /2, onde R = (A + B)² e S = (B + C)².")
-		escreva ("\n\nPara começar, digite o valor de A: ")
+		escreva ("\n\nPara começar, digite o valor para A: ")
 		leia (A)
-		escreva ("Agora, digite o valor de B: ")
+		escreva ("Agora, digite o valor para B: ")
 		leia (B)
-		escreva ("Por fim, digite o valor de C: ")
+		escreva ("Por fim, digite o valor para C: ")
 		leia (C)
 
 
@@ -34,7 +34,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 588; 
+ * @POSICAO-CURSOR = 494; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
