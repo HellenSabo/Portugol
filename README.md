@@ -2,7 +2,7 @@ Este repositório é dedicado aos três dias em que foi apresentada a ferramenta
 
 O site para documentação, referência e download da ferramente Portugol é: http://lite.acad.univali.br/portugol/
 
-**Primeiro Dia**
+**Primeiro Dia - Lógica**
 
 **1)** Faça um sistema que leia a idade de uma pessoa expressa em anos, meses e dias e mostre-a expressa apenas em dias.
 
@@ -20,3 +20,28 @@ O site para documentação, referência e download da ferramente Portugol é: ht
 valores de x e y.
 
 **8)** O custo ao consumidor de um carro novo é a soma do custo de fábrica com a porcentagem do distribuidor e dos impostos (aplicados ao custo de fábrica). Supondo que a porcentagem do distribuidor seja de 28% e os impostos de 45%, escrever um sistema que leia o custo de fábrica de um carro e mostre o custo ao consumidor.
+
+------------------------------------------------------------------------------
+
+**Segundo Dia - Laços de repetição**
+
+**PARA**
+**1)** A prefeitura de uma cidade fez uma pesquisa entre 20 de seus habitantes, coletando dados sobre o salário e número de filhos. Crie um sistema que atenda o que a prefeitura deseja saber:  
+a) A média do salário da população;
+b) A média do número de filhos;
+c) O maior salário;
+d) O percentual de pessoas com salário até R$100,00.
+
+**2)** Desenvolva um sistema que efetue a soma de todos os números ímpares que são múltiplos de 3 e que se encontram no conjunto dos números de 1 até 500.
+
+**ENQUANTO**
+**1)** Elabore um programa que efetue a leitura sucessiva de valores numéricos e apresente, no final, o total da somatória, a média e o total de valores lidos. O programa deve fazer as leituras dos valores enquanto o usuário estiver fornecendo valores
+positivos, ou seja, o programa deve parar quando o usuário fornecer um valor negativo.
+
+**2)** Obtenha um número inserido pelo usuário e repita a operação de multiplicar ele por 3, imprimindo na tela o novo valor, até que ele seja maior do que 100. Exemplo: Se o usuário digitar 5, deve-se observar na tela a sequência "5 15 45 135".
+
+**FAÇA...ENQUANTO**
+
+**1)** Faça um programa que mostre uma contagem na tela de 233 a 456, só que contando de 3 em 3 quando estiver entre 300 e 400 e de 5 em 5 quando não estiver.
+
+**2)** Faça um programa que pegue um número inserido pelo usuário e calcule a soma de todos os números de 1 até ele. Exemplo: O usuário insere 7, o programa vai mostrar 28, pois 1 + 2 + 3 + 4 + 5 + 6 + 7 = 28.
