@@ -26,6 +26,7 @@ valores de x e y.
 **Segundo Dia - Laços de repetição**
 
 **PARA**
+
 **1)** A prefeitura de uma cidade fez uma pesquisa entre 20 de seus habitantes, coletando dados sobre o salário e número de filhos. Crie um sistema que atenda o que a prefeitura deseja saber:  
 a) A média do salário da população;
 b) A média do número de filhos;
@@ -35,6 +36,7 @@ d) O percentual de pessoas com salário até R$100,00.
 **2)** Desenvolva um sistema que efetue a soma de todos os números ímpares que são múltiplos de 3 e que se encontram no conjunto dos números de 1 até 500.
 
 **ENQUANTO**
+
 **1)** Elabore um programa que efetue a leitura sucessiva de valores numéricos e apresente, no final, o total da somatória, a média e o total de valores lidos. O programa deve fazer as leituras dos valores enquanto o usuário estiver fornecendo valores
 positivos, ou seja, o programa deve parar quando o usuário fornecer um valor negativo.
 
