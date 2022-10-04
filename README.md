@@ -2,7 +2,7 @@ Este repositório é dedicado aos três dias em que foi apresentada a ferramenta
 
 O site para documentação, referência e download da ferramenta Portugol é: http://lite.acad.univali.br/portugol/
 
-**Primeiro Dia - Lógica**
+**Primeiro dia - Lógica**
 
 **1)** Faça um sistema que leia a idade de uma pessoa expressa em anos, meses e dias e mostre-a expressa apenas em dias.
 
@@ -23,7 +23,7 @@ valores de x e y.
 
 ------------------------------------------------------------------------------
 
-**Segundo Dia - Laços de repetição**
+**Segundo dia - Laços de repetição**
 
 **PARA**
 
@@ -49,7 +49,7 @@ positivos, ou seja, o programa deve parar quando o usuário fornecer um valor ne
 **2)** Faça um programa que pegue um número inserido pelo usuário e calcule a soma de todos os números de 1 até ele. Exemplo: O usuário insere 7, o programa vai mostrar 28, pois 1 + 2 + 3 + 4 + 5 + 6 + 7 = 28.
 
 -------------------------------------------------------------------------------------------------------------
-**Terceiro Dia - Vetores e Matrizes**
+**Terceiro dia - Vetores e Matrizes**
 
 **1)** Faça um programa que crie um vetor por leitura com 5 valores de pontuação de uma atividade e os escreva em seguida. Após esse processo, encontre a maior pontuação e a apresente.
 
